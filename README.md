@@ -62,6 +62,13 @@ EDA involved exploring the sales data to answer questions, such as:
 
 ### Results/Findings
 The analysis results are summarised as follows:
+- The top ten customers by sales makes up **6.7%** of the total sales
+- A sum of 325 orders was made by the top ten customers by order
+- **Mitch Willingham** has the hoighest average sales of **$1,751**
+- The West Region made up **32.16%**(highest), while South Region made up **16.9%**(lowest) of the customer counts
+- Customer Segment has **421** customer coounts of the customer counts
+- The top ten cities makes up **42.9%** of the total customer counts
+- 
 
 
 
