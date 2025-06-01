@@ -68,7 +68,15 @@ The analysis results are summarised as follows:
 - The West Region made up **32.16%**(highest), while South Region made up **16.9%**(lowest) of the customer counts
 - Customer Segment has **421** customer coounts of the customer counts
 - The top ten cities makes up **42.9%** of the total customer counts
-- 
+- A cummulative sum of **264** orders was made by the top 10 Product by orders
+- A sum of **$244,629** was made from the top ten Product by sales
+- **Binders** has the highest orders while **Phones** has the highest sales by sub-categories
+- **Techonolgy** has the highest sales while **Office supplies** has the highest orders by Categories
+- The West has the highest sales by Region
+- **California** made the highest order(1940) by State
+- **New York** has the highest sales and orders by city
+- The highest sales was made in **2018** while the highest average sales was made in **2015**
+- The **Standard Class** made the highest sales and Orders by Ship Mode
 
 
 
