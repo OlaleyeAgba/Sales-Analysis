@@ -82,4 +82,9 @@ The analysis results are summarised as follows:
 
 ### Recommendations
  Based on the analysis, we recommmend the following actions:
+- More consumer goods should be made available.
+- Focus more on the West Region and make research on how to get more customers from the South Region 
+- Discount Price or Bonus Card should be awarded to the top customers by sales and orders
+- Office supplies should be focus on based on Category 
+- Research should be made on how to improve the sales and orders of the lowest performing Products and Sub-category
 - 
