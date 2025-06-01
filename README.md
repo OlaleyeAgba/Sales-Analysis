@@ -13,7 +13,6 @@
 - [Results/Findings](#results-findings)
 - [Recommendations](#recommendation)
 
-![](1748774654835.jpg)
 
 ## Project Overview
 This Sales aims to provide insight into the sales performance of a company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, provide data-driven recommondation and gain a deeper understanding of the company's performances
@@ -34,12 +33,18 @@ In the intial data preparation phase, we performed the folowing tasks:
 ### Data Normalization
 This is done by organizing a dataset into tables, in way to eleiminates redundant data and improve data integrity.The basics idea is that each table should be about a specifixc topic.
 
+![Screenshot (2)](https://github.com/user-attachments/assets/54ab4465-f8b4-4860-ab24-47c9368bf4fd)
+
+
 ### Data Modeling
 This invloves organizing  and structuring data from various sources to create a visual representation of how that data is related and can be analysed.
 
+![Screenshot (4)](https://github.com/user-attachments/assets/6fd4ab59-528e-4b0f-9291-f90919af7baf)
+
+
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer questions, such as:
-1. What is the overall sales trens?
+1. What is the overall sales trends?
 2. Which products are top sellers?
 3. Trends of sales in a given period
 
