@@ -4,11 +4,12 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning/Preparation](#data-cleaning-preparation)
 - [Data Normalization](#data-normalization)
 - [Data Modeling](#data-modeling)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- []
+- [Results/Findings](#results-findings)
+- [Recommendations](#recommendation)
 
 ![](1748774654835.jpg)
 
