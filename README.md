@@ -1,5 +1,6 @@
 # Sales-Analysis
-74654835.jpg
+![1748774654835](https://github.com/user-attachments/assets/4bc2f808-c6cf-4e44-8626-cec94798848d)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
