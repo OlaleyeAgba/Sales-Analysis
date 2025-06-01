@@ -44,10 +44,21 @@ This invloves organizing  and structuring data from various sources to create a 
 
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer questions, such as:
-1. What is the overall sales trends?
-2. Which products are top sellers?
-3. Trends of sales in a given period
+1. What is the trends of Customer (Sales, Orders, Average sales), Count of customers based on region, segments and city?
 
+  ![Screenshot (5)](https://github.com/user-attachments/assets/60bf8ada-1f5a-4f5b-b300-f20ddcd2d3d4)
+
+2. Which Products and Product-categories are top sellers in terms of orders and total sales?
+
+   ![Screenshot (6)](https://github.com/user-attachments/assets/f404c5dd-9166-448d-b3c1-bd92ddb84e0d)
+
+3. Trends of sales and orders by Location(State, City, Region and Segmeant).
+
+   ![Screenshot (7)](https://github.com/user-attachments/assets/ff6b345f-b72e-4d61-b65f-4ff0eb3fd4da)
+
+4. Trends of sales, average sales and orders by Year, Sales and Orders by Ship Mode
+
+![Screenshot (8)](https://github.com/user-attachments/assets/3ee29d4a-60f2-4f6d-b85c-c230818174db)
 
 ### Results/Findings
 The analysis results are summarised as follows:
