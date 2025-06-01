@@ -18,7 +18,7 @@
 This Sales aims to provide insight into the sales performance of a company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, provide data-driven recommondation and gain a deeper understanding of the company's performances
 
 ## Data Sources
- Sales Data: The primary data is "Sales_data.csv" 
+ Sales Data: The primary data is https://github.com/OlaleyeAgba/Sales-Analysis/blob/main/sales_data.csv
 
  ## Tools
  - Excel (Data Cleaning)
