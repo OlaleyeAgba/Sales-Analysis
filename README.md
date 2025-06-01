@@ -87,4 +87,6 @@ The analysis results are summarised as follows:
 - Discount Price or Bonus Card should be awarded to the top customers by sales and orders
 - Office supplies should be focus on based on Category 
 - Research should be made on how to improve the sales and orders of the lowest performing Products and Sub-category
-- 
+- **New York City**; more products supplies should be made available in the city
+- **California**; more products supplies should be made available in the State
+- The company should focus on how to make **Same day delivery** attractive and effective to the customers.
