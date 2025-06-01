@@ -81,5 +81,5 @@ The analysis results are summarised as follows:
 
 
 ### Recommendations
-Based on the analysis, we recommmend the following actions:
+ Based on the analysis, we recommmend the following actions:
 - 
