@@ -12,3 +12,21 @@ This Sales aims to provide insight into the sales performance of a company over 
  - Excel (Data Cleaning)
  - PowerBi (Normalization, Data Modeling and Visualization)
 
+### Data Cleaning/Preparation
+In the intial data preparation phase, we performed the folowing tasks:
+1. Data loading and inspection
+2. Handling of missimg values
+3. Data cleaning and formatting
+
+### Data Normalization
+This is done by organizing a dataset into tables, in way to eleiminates redundant data and improve data integrity.The basics idea is that eaxh table should be about a specifixc topic.
+
+### Data Modeling
+This invloves organizing  and structuring data from various sources to create a visual representation of how that data is related and can be analysed.
+
+### Exploratory Data Analysis
+EDA involved exploring the sales data to answer questions, such as:
+1. What is the overall sales trens?
+2. Which products are top sellers?
+3. Trends of sales in a given period
+4.  
