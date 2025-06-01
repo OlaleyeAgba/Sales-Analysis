@@ -1,5 +1,15 @@
 # Sales-Analysis
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Normalization](#data-normalization)
+- [Data Modeling](#data-modeling)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- []
+
 ![](1748774654835.jpg)
 
 ## Project Overview
@@ -19,7 +29,7 @@ In the intial data preparation phase, we performed the folowing tasks:
 3. Data cleaning and formatting
 
 ### Data Normalization
-This is done by organizing a dataset into tables, in way to eleiminates redundant data and improve data integrity.The basics idea is that eaxh table should be about a specifixc topic.
+This is done by organizing a dataset into tables, in way to eleiminates redundant data and improve data integrity.The basics idea is that each table should be about a specifixc topic.
 
 ### Data Modeling
 This invloves organizing  and structuring data from various sources to create a visual representation of how that data is related and can be analysed.
@@ -29,4 +39,13 @@ EDA involved exploring the sales data to answer questions, such as:
 1. What is the overall sales trens?
 2. Which products are top sellers?
 3. Trends of sales in a given period
-4.  
+
+
+### Results/Findings
+The analysis results are summarised as follows:
+
+
+
+### Recommendations
+Based on the analysis, we recommmend the following actions:
+- 
